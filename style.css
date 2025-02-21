@@ -425,7 +425,8 @@ section.skills {
 }
 
 .education-container,
-.experience-container {
+.experience-container,
+.projects-cards article {
   display: flex;
   gap: 0.8rem;
   flex-direction: column;
