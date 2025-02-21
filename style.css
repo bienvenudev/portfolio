@@ -323,7 +323,7 @@ body.dark svg {
 }
 
 section#About {
-  margin: 5rem 0;
+  margin: 8rem 0 5rem 0;
 }
 
 body section#About a {
@@ -495,4 +495,8 @@ h4 {
 
 footer {
   margin: 8rem 0 2rem;
+}
+
+footer a:hover {
+  opacity: 0.8;
 }
